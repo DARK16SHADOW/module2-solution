@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+}
+.Heading{
+    text-align: center;
+}
+section {
+float: left;
+}
